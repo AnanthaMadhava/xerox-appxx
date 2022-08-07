@@ -1,0 +1,75 @@
+.app-xerox-content-top {
+  padding: 10px 20px;
+  background: #FF10F0;
+  color: #fff;
+}
+
+.app-xerox-content-top > div, .app-xerox-content-bottom > div {
+  margin: 10px 0;
+}
+
+.app-xerox-content-count {
+  padding-left: 10px;
+}
+
+.app-xerox-content-grid {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.app-xerox-content-docName, .app-xerox-content-docType, .app-xerox-content-statement {
+  width: 80%;
+  border: 1px solid rgba(0,0,0,0.33);
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.app-xerox-content-docType {
+  width: 19%;
+}
+
+.app-xerox-content-bottom {
+  padding: 10px 20px;
+  color: #000;
+}
+
+.app-xerox-content-scanInfo {
+  border: 1px solid rgba(0,0,0,0.33);
+  border-radius: 3px;
+}
+
+.app-xerox-content-scanSide {
+  border-bottom: 1px solid rgba(0,0,0,0.33);
+}
+
+.app-xerox-content-scanSide, .app-xerox-content-scanSize {
+  padding: 3px 10px;
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-xerox-content-scanContent {
+  display: flex;
+  align-items: center;
+}
+
+.app-xerox-content-scanIcon1, .app-xerox-content-scanIcon2 {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid rgba(0,0,0,0.33);
+}
+
+.app-xerox-content-scanIcon1 {
+  background: #FFC300;
+}
+
+.app-xerox-content-scanIcon2 {
+  background: #2980B9;
+}
+
+.app-xerox-content-statement {
+  width: 49%;
+  text-align: center;
+}

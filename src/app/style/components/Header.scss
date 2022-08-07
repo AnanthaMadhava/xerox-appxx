@@ -1,0 +1,49 @@
+.app-xerox-header {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 400;
+  display: flex !important;
+  width: 100%;
+}
+.app-xerox-header-text {
+  text-align: center;
+  width: 100%;
+  font-size: 22px !important;
+}
+.app-xerox-header-button {
+  border: 1px solid rgba(0,0,0,0.33) !important;
+  float: right;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.app-xerox-header-scanLayer {
+  background-color: transparent !important;
+  text-align: center;
+  color: #fff !important;
+}
+
+.app-xerox-header-scanLayer > span, .app-xerox-header-scanLayer > button {
+  display: block !important;
+  margin: 5px;
+  align-self: center;
+}
+
+.app-xerox-header-scanLayer > button {
+  margin-top: 10px;
+}
+
+.kKXaiN {
+  background-color: rgba(0,0,0,0.9) !important;
+}
+
+.app-xerox-header-scanLayer-successEmail {
+  color: #999;
+}
+
+.app-xerox-header-layer-button {
+  display: flex !important;
+  width: fit-content;
+  border: 1px solid #fff !important;
+  border-radius: 5px;
+}
